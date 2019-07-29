@@ -1,0 +1,13 @@
+
+
+		Tutor Cara Menghubungkan Gitkraken Dan Github
+
+
+         1. Buka Akun github Dan Buat Repository (Hanya Untuk Ketua) Nama Repo sesuai nama tim
+	 2. isi form pembuatan repository deskripsi bebas dan Centang Public, Initialize this repository with a 	    README lalu klik Create Repository
+         3. Klik Clone Or Download Lalu Copas Link Repository
+	 4. Buka Folder(Bebas Dimana Saja) Lalu Open Terminal
+	 5. Lalu Ketik git clone dan paste link Repository github anda tekan enter
+	 6. ketik cd inuyasha/sesuai nama repository anda dan enter
+	 7. Lalu Install Kan laravel Pada Repositori (lila dilewat we jadi ngainstall na terakhir)
+	 8. Buka Gitkraken lalu klik open repo jika tulisan Readme.md sama dengan di github berarti sudah 	 		    terhubung 
